@@ -25,5 +25,3 @@ A **Java Spring Boot Banking Application** with production-ready features such a
 - **Maven**
 
 ---
-
-## 📂 Project Structure
